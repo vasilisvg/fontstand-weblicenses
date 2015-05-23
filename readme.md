@@ -61,7 +61,7 @@ Webfonts are handled by the different vendors that sell the fonts.
 - Per domain
 - Amount of visitors
 
-## Mark Simonson Studio
+## [Mark Simonson Studio](http://www.marksimonson.com/info/purchasing)
 
 Webfonts are handled by the different vendors that sell the fonts. 
 
