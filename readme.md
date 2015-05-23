@@ -16,7 +16,9 @@ Fontstand is a new app that lets you rent fonts instead of buying them. This is 
 - Per domain
 - Amount of visitors
 
-## DSType Foundry
+## [DSType Foundry](http://www.dstype.com/)
+
+Unclear. They ask you to get in touch [via email](mailto:info@dstype.com?subject=Information%20About%20Licenses) for more than desktop licences.
 
 ## Feliciano
 
