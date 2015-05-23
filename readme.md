@@ -56,9 +56,14 @@ Webfonts are handled by the different vendors that sell the fonts.
 
 Webfonts are handled by the different vendors that sell the fonts. 
 
-# Todo
+## [LudwigType](https://www.ludwigtype.de/license)
 
-## LudwigType
+- Self hosting
+- One time fee
+- Per domain
+- Amount of visitors
+
+# Todo
 
 ## Mark Simonson Studio
 
