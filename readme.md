@@ -43,7 +43,7 @@ Doesn’t offer webfont licences yet.
 
 ## [URTD](http://www.urtd.net/fonts)
 
-Webfonts are handled by different vendors that sell the fonts. 
+Webfonts are handled by the different vendors that sell the fonts. 
 
 # Todo
 
