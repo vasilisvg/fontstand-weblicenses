@@ -41,10 +41,6 @@ Doesn’t offer webfont licences yet.
 
 > We are actively working on versions of our fonts to be implemented with CSS @font-face embedding and are licensing select styles for enterprise-level implementations.
 
-## [URTD](http://www.urtd.net/fonts)
-
-Webfonts are handled by the different vendors that sell the fonts. 
-
 ## [LettError Type](http://letterror.com/fontcatalog/)
 
 Webfonts are handled by the different vendors that sell the fonts. 
@@ -55,6 +51,10 @@ Webfonts are handled by the different vendors that sell the fonts.
 - One time fee
 - Per domain
 - Amount of visitors
+
+## [URTD](http://www.urtd.net/fonts)
+
+Webfonts are handled by the different vendors that sell the fonts. 
 
 # Todo
 
