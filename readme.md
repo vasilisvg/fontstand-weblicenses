@@ -20,7 +20,9 @@ Fontstand is a new app that lets you rent fonts instead of buying them. This is 
 
 Unclear. They ask you to get in touch [via email](mailto:info@dstype.com?subject=Information%20About%20Licenses) for more than desktop licences.
 
-## Feliciano
+## [Feliciano](http://www.felicianotypefoundry.com/cms/licensing)
+
+Doesn’t seem to offer a webfont licence.
 
 ## Fontsmith
 
