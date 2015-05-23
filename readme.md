@@ -54,10 +54,6 @@ Webfonts are handled by the different vendors that sell the fonts.
 - Per domain
 - Amount of visitors
 
-## [URTD](http://www.urtd.net/fonts)
-
-Webfonts are handled by the different vendors that sell the fonts. 
-
 ## [LudwigType](https://www.ludwigtype.de/license)
 
 - Self hosting
@@ -65,9 +61,16 @@ Webfonts are handled by the different vendors that sell the fonts.
 - Per domain
 - Amount of visitors
 
-# Todo
-
 ## Mark Simonson Studio
+
+Webfonts are handled by the different vendors that sell the fonts. 
+
+
+## [URTD](http://www.urtd.net/fonts)
+
+Webfonts are handled by the different vendors that sell the fonts. 
+
+# Todo
 
 ## Production Type
 
