@@ -45,9 +45,11 @@ Doesn’t offer webfont licences yet.
 
 Webfonts are handled by the different vendors that sell the fonts. 
 
-# Todo
+## [LettError Type](http://letterror.com/fontcatalog/)
 
-## LettError Type
+Webfonts are handled by the different vendors that sell the fonts. 
+
+# Todo
 
 ## Letters from Sweden
 
