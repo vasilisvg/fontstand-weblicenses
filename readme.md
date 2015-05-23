@@ -49,9 +49,14 @@ Webfonts are handled by the different vendors that sell the fonts.
 
 Webfonts are handled by the different vendors that sell the fonts. 
 
-# Todo
+## [Letters from Sweden](http://lettersfromsweden.se/license/)
 
-## Letters from Sweden
+- Self hosting
+- One time fee
+- Per domain
+- Amount of visitors
+
+# Todo
 
 ## LudwigType
 
