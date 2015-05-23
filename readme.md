@@ -1,6 +1,8 @@
 # Webfont licences for the Fontstand foundries
 
-Fontstand is a new app that lets you rent fonts instead of buying them. This is fantastic for desktop use, and it’s great to try out a font in the browser as well. You should know that this service does not licence your fonts for usage on the web. And every foundry that’s found in Fontstand uses its own webfont licences. Here’s an overview with direct links to the licences and some of the highlights. *I could use some help here*.
+[Fontstand](https://fontstand.com/) is a new app that lets you rent fonts instead of buying them. This is fantastic for desktop use, and it’s great to try out a font in the browser as well. You should know that this service does not licence your fonts for usage on the web. And every foundry that’s found in Fontstand uses its own webfont licences. Here’s an overview with direct links to the licences and some of the highlights. 
+
+*The information on this page is definitely incomplete! Make sure to read the licence agreement before buying a font.*
 
 ## [Bold Monday](https://www.boldmonday.com/support/licenses/)
 
@@ -33,9 +35,13 @@ Doesn’t seem to offer a webfont licence.
 
 Alternatively fonts can be rented from [Fontdeck](http://fontdeck.com/foundry/fontsmith)
 
-# Todo
+## [House Industries](http://www.houseind.com/fonts/licensing/webfonts)
 
-## House Industries
+Doesn’t offer webfont licences yet. 
+
+> We are actively working on versions of our fonts to be implemented with CSS @font-face embedding and are licensing select styles for enterprise-level implementations.
+
+# Todo
 
 ## LettError Type
 
