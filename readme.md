@@ -24,7 +24,14 @@ Unclear. They ask you to get in touch [via email](mailto:info@dstype.com?subject
 
 Doesn’t seem to offer a webfont licence.
 
-## Fontsmith
+## [Fontsmith](http://www.fontsmith.com/licensing)
+
+- Self hosting
+- One time fee
+- Page view based
+- Different types of licences. 
+
+Alternatively fonts can be rented from [Fontdeck](http://fontdeck.com/foundry/fontsmith)
 
 ## House Industries
 
