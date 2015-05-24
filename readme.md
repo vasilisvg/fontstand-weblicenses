@@ -123,9 +123,18 @@ Webfonts can be rented from four external services.
 
 Webfonts can be rented from two external services.
 
-# Todo
+## [Typonine](http://www.typonine.com/fonts/webfonts/)
 
-## Typonine
+- Cloud hosted by Typonine
+- Bandwidth based (500MB free, $2 per extra GB)
+- Unlimited domains
+- One time fee
 
-## Typotheque
+## [Typotheque](https://www.typotheque.com/webfonts/)
+
+- Cloud hosted by Typotheque
+- Bandwidth based (500MB free, $2 per extra GB)
+- Unlimited domains
+- One time fee
+- Optional [self hosting licence](https://www.typotheque.com/licensing/web_server_licence) for very large sites
 
