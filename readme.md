@@ -84,9 +84,16 @@ Webfonts are handled by the different vendors that sell the fonts.
 - Per domain
 - Amount of visitors
 
-# Todo
+## [Retype](http://www.re-type.com/fonts/user-agreement.html)
 
-## Retype
+The EULA seems to be incomplete regarding webfonts. It looks like it works as follows:
+
+- Self hosting
+- One time fee
+- Per domain (no mention, but I assume)
+- Price is per *5000 monthly pageviews*
+
+# Todo
 
 ## Storm Type Foundry
 
