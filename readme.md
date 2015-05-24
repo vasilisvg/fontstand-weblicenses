@@ -86,7 +86,7 @@ Webfonts are handled by the different vendors that sell the fonts.
 
 ## [Retype](http://www.re-type.com/fonts/user-agreement.html)
 
-The EULA seems to be incomplete regarding webfonts. It looks like it works as follows:
+The EULA seems to be incomplete regarding webfonts. But it looks like it works as follows:
 
 - Self hosting
 - One time fee
