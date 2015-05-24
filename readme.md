@@ -93,9 +93,15 @@ The EULA seems to be incomplete regarding webfonts. But it looks like it works a
 - Per domain (no mention, but I assume)
 - Price is per *5000 monthly pageviews*
 
-# Todo
+## [Storm Type Foundry](https://www.stormtype.com/licenses/webfont)
 
-## Storm Type Foundry
+- Tracking code
+- Self hosting
+- Multi domain
+- Page view based (10000 pageviews/month)
+- One time fee
+
+# Todo
 
 ## Suitcase Type Foundry
 
