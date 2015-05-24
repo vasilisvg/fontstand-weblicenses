@@ -1,6 +1,6 @@
 # Webfont licences for the Fontstand foundries
 
-[Fontstand](https://fontstand.com/) is a new app that lets you rent fonts instead of buying them. This is fantastic for desktop use, and it’s great to try out a font in the browser as well. You should know that this service does not licence your fonts for usage on the web though. 
+[Fontstand](https://fontstand.com/) is a new app that lets you rent fonts instead of buying them. This is fantastic for desktop use, and it’s great to try out a font in the browser as well. You should know that this service does not licence your fonts for usage on the web though. It’s probably a good idea to check if you are allowed to use a font (or if you can afford it) before you fall in love with it.
 
 Not all foundries in Fontstand offer webfont licences. And if they do, they’re all different. Here’s an overview with direct links to the licences and some of the highlights. 
 
