@@ -66,10 +66,6 @@ Webfonts are handled by the different vendors that sell the fonts.
 Webfonts are handled by the different vendors that sell the fonts. 
 
 
-## [URTD](http://www.urtd.net/fonts)
-
-Webfonts are handled by the different vendors that sell the fonts. 
-
 ## [Process](http://processtypefoundry.com/licensing/webfont-license-agreement)
 
 - Self hosting
@@ -138,3 +134,6 @@ Webfonts can be rented from two external services.
 - One time fee
 - Optional [self hosting licence](https://www.typotheque.com/licensing/web_server_licence) for very large sites
 
+## [URTD](http://www.urtd.net/fonts)
+
+Webfonts are handled by the different vendors that sell the fonts. 
