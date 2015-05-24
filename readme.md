@@ -70,9 +70,14 @@ Webfonts are handled by the different vendors that sell the fonts.
 
 Webfonts are handled by the different vendors that sell the fonts. 
 
-# Todo
+## [Production Type](https://productiontype.com/support/eula)
 
-## Production Type
+- Self hosting
+- One time fee
+- Per domain
+- Amount of visitors
+
+# Todo
 
 ## Process
 
