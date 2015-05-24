@@ -115,9 +115,11 @@ The EULA seems to be incomplete regarding webfonts. But it looks like it works a
 - Pageview based (additional licence required after exceeding for three consecutive months)
 - One time fee, yearly fee or a biannual fee
 
-# Todo
+## [TypeTogether](http://www.type-together.com/catalogue)
 
-## TypeTogether
+Webfonts can be rented from external services.
+
+# Todo
 
 ## Typofonderie
 
