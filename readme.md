@@ -108,7 +108,7 @@ The EULA seems to be incomplete regarding webfonts. But it looks like it works a
 - Pageview based (1000 pageviews/month)
 - One time fee
 
-## Type Supply
+## [Type Supply](https://typesupply.com/license#webfonts)
 
 - Self hosted
 - Per domain
