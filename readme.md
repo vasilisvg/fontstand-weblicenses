@@ -101,9 +101,14 @@ The EULA seems to be incomplete regarding webfonts. But it looks like it works a
 - Page view based (10000 pageviews/month)
 - One time fee
 
-# Todo
+## [Suitcase Type Foundry](http://suitcasetype.com/webfonts)
 
-## Suitcase Type Foundry
+- Self hosting
+- 5 domains
+- Pageview based (1000 pageviews/month)
+- One time fee
+
+# Todo
 
 ## Type Supply
 
