@@ -117,11 +117,13 @@ The EULA seems to be incomplete regarding webfonts. But it looks like it works a
 
 ## [TypeTogether](http://www.type-together.com/catalogue)
 
-Webfonts can be rented from external services.
+Webfonts can be rented from four external services.
+
+## [Typofonderie](http://typofonderie.com/purchasing-help/webfonts/)
+
+Webfonts can be rented from two external services.
 
 # Todo
-
-## Typofonderie
 
 ## Typonine
 
