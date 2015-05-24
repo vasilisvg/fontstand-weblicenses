@@ -108,9 +108,14 @@ The EULA seems to be incomplete regarding webfonts. But it looks like it works a
 - Pageview based (1000 pageviews/month)
 - One time fee
 
-# Todo
-
 ## Type Supply
+
+- Self hosted
+- Per domain
+- Pageview based (additional licence required after exceeding for three consecutive months)
+- One time fee, yearly fee or a biannual fee
+
+# Todo
 
 ## TypeTogether
 
