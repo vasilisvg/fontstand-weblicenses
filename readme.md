@@ -70,6 +70,13 @@ Webfonts are handled by the different vendors that sell the fonts.
 
 Webfonts are handled by the different vendors that sell the fonts. 
 
+## [Process](http://processtypefoundry.com/licensing/webfont-license-agreement)
+
+- Self hosting
+- One time fee
+- Per domain
+- Average pageviews over a six month period
+
 ## [Production Type](https://productiontype.com/support/eula)
 
 - Self hosting
@@ -78,8 +85,6 @@ Webfonts are handled by the different vendors that sell the fonts.
 - Amount of visitors
 
 # Todo
-
-## Process
 
 ## Retype
 
