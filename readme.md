@@ -114,7 +114,7 @@ The EULA seems to be incomplete regarding webfonts. But it looks like it works a
 ## [Typejockeys](http://www.typejockeys.com/webfonts)
 
 - Self hosted
-- Pageview based on trust (no tracking or analytics mentioned)
+- Pageview based
 - One time fee
 - Unclear how many domains (not mentioned)
 
