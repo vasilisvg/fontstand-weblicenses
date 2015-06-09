@@ -111,6 +111,13 @@ The EULA seems to be incomplete regarding webfonts. But it looks like it works a
 - Pageview based (additional licence required after exceeding for three consecutive months)
 - One time fee, yearly fee or a biannual fee
 
+## [Typejockeys](http://www.typejockeys.com/webfonts)
+
+- Self hosted
+- Pageview based on trust (no tracking or analytics mentioned)
+- One time fee
+- Unclear how many domains (not mentioned)
+
 ## [TypeTogether](http://www.type-together.com/catalogue)
 
 Webfonts can be rented from four external services.
