@@ -13,6 +13,8 @@ Not all foundries in Fontstand offer webfont licences. And if they do, they’re
 - Per domain
 - Amount of visitors
 
+Alternatively fonts are available at [Webtype](http://www.webtype.com/)
+
 ## [Commercial Type](https://commercialtype.com/user_license)
 
 - Self hosting
@@ -60,6 +62,8 @@ Webfonts are handled by the different vendors that sell the fonts.
 - One time fee
 - Per domain
 - Amount of visitors
+
+Alternatively fonts are available at [Webtype](http://www.webtype.com/)
 
 ## [Mark Simonson Studio](http://www.marksimonson.com/info/purchasing)
 
