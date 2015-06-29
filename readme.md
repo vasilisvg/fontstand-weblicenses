@@ -93,6 +93,13 @@ The EULA seems to be incomplete regarding webfonts. But it looks like it works a
 - Per domain (no mention, but I assume)
 - Price is per *5000 monthly pageviews*
 
+## [Rosetta](https://www.rosettatype.com/licence#)
+
+- Self hosting
+- One time fee
+- 1, 5 or 15 domains
+- 500k pageviews/month
+
 ## [Storm Type Foundry](https://www.stormtype.com/licenses/webfont)
 
 - Tracking code
