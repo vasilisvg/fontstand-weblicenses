@@ -18,7 +18,7 @@ Alternatively fonts are available at [Webtype](http://www.webtype.com/)
 ## [Commercial Type](https://commercialtype.com/user_license)
 
 - Self hosting
-- One time or yearly fee
+- One time fee
 - Per domain
 - Amount of visitors
 
