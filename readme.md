@@ -73,6 +73,9 @@ Alternatively fonts are available at [Webtype](http://www.webtype.com/)
 
 Webfonts are handled by the different vendors that sell the fonts. 
 
+## [Okay Type](http://okaytype.com/hello/friend)
+
+Webfonts are available at [Webtype](http://www.webtype.com/)
 
 ## [Process](http://processtypefoundry.com/licensing/webfont-license-agreement)
 
