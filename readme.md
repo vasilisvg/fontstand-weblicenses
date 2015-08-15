@@ -6,6 +6,10 @@ Not all foundries in Fontstand offer webfont licences. And if they do, they’re
 
 *The information on this page is definitely incomplete! Make sure to read the licence agreement before buying a font.*
 
+## [American Type Founders](http://atftype.com/)
+
+Webfonts via [Webtype](http://www.webtype.com/catalog/?foundry=109)
+
 ## [Bold Monday](https://www.boldmonday.com/support/licenses/)
 
 - Self hosting
