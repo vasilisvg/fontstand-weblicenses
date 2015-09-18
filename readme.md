@@ -30,6 +30,10 @@ Alternatively fonts are available at [Webtype](http://www.webtype.com/)
 
 Currently no web licences available.
 
+## [Darden Studio](http://www.dardenstudio.com/faq#question-1-1)
+
+Web licences [on request](http://www.dardenstudio.com/faq#question-1-1)
+
 ## [DSType Foundry](http://www.dstype.com/)
 
 Unclear. They ask you to get in touch [via email](mailto:info@dstype.com?subject=Information%20About%20Licenses) for more than desktop licences.
