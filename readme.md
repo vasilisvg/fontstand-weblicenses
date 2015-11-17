@@ -57,6 +57,15 @@ Doesn’t offer webfont licences yet.
 
 > We are actively working on versions of our fonts to be implemented with CSS @font-face embedding and are licensing select styles for enterprise-level implementations.
 
+## [Just Another Foundry](http://justanotherfoundry.com/legal/EULA%20for%20JAF%20Web%20fonts.pdf)
+
+- Self hosting
+- One time fee
+- Per domain
+- Amount of pageviews
+
+Fonts are also [available on Typekit](https://typekit.com/foundries/just-another-foundry).
+
 ## [LettError Type](http://letterror.com/fontcatalog/)
 
 Webfonts are handled by the different vendors that sell the fonts. 
