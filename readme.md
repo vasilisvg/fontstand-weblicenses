@@ -90,6 +90,15 @@ Alternatively fonts are available at [Webtype](http://www.webtype.com/)
 
 Webfonts are handled by the different vendors that sell the fonts. 
 
+## [Monokrom](https://monokrom.no/page/about_us/licensing_terms)
+
+- Self hosting
+- One time fee
+- Pageviews
+- Installable fonts included
+
+Alternatively via [Webtype](http://www.webtype.com/catalog/?foundry=96)
+
 ## [MVB Fonts](http://mvbfonts.com/webfonts)
 
 Webfonts are [handled by Webtype](http://mvbfonts.com/webfonts).
